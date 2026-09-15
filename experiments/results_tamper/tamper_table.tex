@@ -1,0 +1,17 @@
+\begin{tabular}{|l|c|c|c|c|}
+\hline
+\bfseries Scenario / System & \bfseries Attack & \bfseries Detected by & \bfseries Detected by & \bfseries Attributable \\
+ & \bfseries blocked & \bfseries state diff & \bfseries history audit & \\\hline
+\multicolumn{5}{|l|}{\itshape A1 Insider escalation (owner key held)} \\\hline
+\quad System B (centralized) & $\times$ & \checkmark & $\times$ & $\times$ \\\hline
+\quad System C (blockchain) & $\times$ & \checkmark & \checkmark & \checkmark \\\hline
+\multicolumn{5}{|l|}{\itshape A2 Unauthorized escalation (no owner key)} \\\hline
+\quad System B (centralized) & $\times$ & \checkmark & $\times$ & $\times$ \\\hline
+\quad System C (blockchain) & \checkmark & n.a. & n.a. & n.a. \\\hline
+\multicolumn{5}{|l|}{\itshape A3 Retroactive revert} \\\hline
+\quad System B (centralized) & $\times$ & $\times$ & $\times$ & $\times$ \\\hline
+\quad System C (blockchain) & $\times$ & $\times$ & \checkmark & \checkmark \\\hline
+\multicolumn{5}{|l|}{\itshape A4 Audit-log tampering} \\\hline
+\quad System B (centralized) & $\times$ & $\times$ & $\times$ & $\times$ \\\hline
+\quad System C (blockchain) & $\times$ & $\times$ & \checkmark & \checkmark \\\hline
+\end{tabular}

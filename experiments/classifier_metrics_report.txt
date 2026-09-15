@@ -1,0 +1,49 @@
+==============================================================================
+  CLASSIFIER COMPARISON — METRICS REPORT
+  Generated: 2026-07-08T17:05:18.674956+00:00Z
+  sklearn available: True
+==============================================================================
+
+── rule ────────────────────────────────────────────────────────
+  Accuracy:        90.33%
+  Macro Precision: 93.48%
+  Macro Recall:    90.33%
+  Macro F1:        90.58%
+
+  Per-class breakdown:
+    search_web         precision=100.00%  recall= 71.67%  f1= 83.50%  (n=60)
+    read_file          precision=100.00%  recall= 80.00%  f1= 88.89%  (n=60)
+    transfer_money     precision=100.00%  recall=100.00%  f1=100.00%  (n=60)
+    execute_command    precision=100.00%  recall=100.00%  f1=100.00%  (n=60)
+    delete_database    precision= 67.42%  recall=100.00%  f1= 80.54%  (n=60)
+
+  Confusion matrix (rows=actual, cols=predicted):
+                        search_w  read_fil  transfer  execute_  delete_d
+    search_web                43         0         0         0        17
+    read_file                  0        48         0         0        12
+    transfer_money             0         0        60         0         0
+    execute_command            0         0         0        60         0
+    delete_database            0         0         0         0        60
+
+── embedding ───────────────────────────────────────────────────
+  Accuracy:        96.67%
+  Macro Precision: 96.93%
+  Macro Recall:    96.67%
+  Macro F1:        96.69%
+
+  Per-class breakdown:
+    search_web         precision=100.00%  recall= 96.67%  f1= 98.31%  (n=60)
+    read_file          precision= 87.88%  recall= 96.67%  f1= 92.06%  (n=60)
+    transfer_money     precision=100.00%  recall=100.00%  f1=100.00%  (n=60)
+    execute_command    precision=100.00%  recall= 90.00%  f1= 94.74%  (n=60)
+    delete_database    precision= 96.77%  recall=100.00%  f1= 98.36%  (n=60)
+
+  Confusion matrix (rows=actual, cols=predicted):
+                        search_w  read_fil  transfer  execute_  delete_d
+    search_web                58         2         0         0         0
+    read_file                  0        58         0         0         2
+    transfer_money             0         0        60         0         0
+    execute_command            0         6         0        54         0
+    delete_database            0         0         0         0        60
+
+==============================================================================

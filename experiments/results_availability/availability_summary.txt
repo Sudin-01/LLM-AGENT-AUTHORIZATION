@@ -1,0 +1,20 @@
+==============================================================================
+  AVAILABILITY UNDER FAULT AND ASYNCHRONOUS AUDIT
+  Generated: 2026-09-02T17:27:22.907931+00:00
+==============================================================================
+
+Fail-closed availability
+
+  fault    0%   availability 100.00%   legitimate actions denied   0/200
+  fault    1%   availability  99.00%   legitimate actions denied   2/200
+  fault    5%   availability  94.00%   legitimate actions denied  12/200
+  fault   10%   availability  92.00%   legitimate actions denied  16/200
+  fault   25%   availability  75.00%   legitimate actions denied  50/200
+
+Audit write placement
+
+   sync      46.7 req/s   median  20.81 ms   p95  23.97 ms   max backlog   0   audit lag 0 ms
+  async      77.6 req/s   median  12.99 ms   p95  16.15 ms   max backlog  70   audit lag 696 ms
+
+  speed-up from moving the audit write off the enforcement path: 1.7x
+==============================================================================

@@ -1,0 +1,22 @@
+# Experiment harness dependencies (BlockGuard)
+#
+# Verified working set. Pinned exactly: sentence-transformers resolves against
+# the installed torch, and an unpinned install pulls a transformers release
+# that requires torch>=2.5 and fails at import on older torch.
+#
+#   python -m pip install -r experiments/requirements.txt
+#
+# Tested on Python 3.12.2.
+
+requests==2.32.3
+web3==6.20.3
+numpy==1.26.4
+scikit-learn==1.5.1
+matplotlib==3.9.2
+
+# Embedding classifier. torch is a transitive dependency of
+# sentence-transformers; the pins below are mutually compatible.
+torch==2.2.2
+transformers==4.44.2
+sentence-transformers==3.0.1
+tokenizers==0.19.1

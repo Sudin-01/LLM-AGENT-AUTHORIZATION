@@ -1,0 +1,11 @@
+dataset,tool,n_prompts,unique_strings,unique_patterns,vocabulary,ttr,mean_cos,max_cos,near_dupes
+v1  template expansion (as published),search_web,60,60,14,66,0.1444,0.3128,0.9238,0
+v1  template expansion (as published),read_file,60,60,28,55,0.1228,0.3422,0.9522,1
+v1  template expansion (as published),transfer_money,60,60,14,61,0.1537,0.4289,0.9615,2
+v1  template expansion (as published),execute_command,60,60,14,56,0.1318,0.3232,0.9835,45
+v1  template expansion (as published),delete_database,60,60,14,74,0.1394,0.4249,0.8992,0
+v2  curated dataset (this work),search_web,60,60,60,354,0.5822,0.1213,0.5655,0
+v2  curated dataset (this work),read_file,60,60,60,260,0.4134,0.1998,0.7037,0
+v2  curated dataset (this work),transfer_money,60,60,60,243,0.4263,0.2716,0.8649,0
+v2  curated dataset (this work),execute_command,60,60,60,271,0.4617,0.1498,0.8723,0
+v2  curated dataset (this work),delete_database,60,60,60,229,0.4082,0.2975,0.7956,0

@@ -1,0 +1,19 @@
+{
+  "ganache": {
+    "network": "ganache",
+    "contractAddress": "0x0165878A594ca255338adfa4d48449f69242Eb8F",
+    "deployerAddress": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "deployedAt": "2026-09-03T12:05:26.740Z",
+    "txHash": "0x284da653f94f976a48db26cae4fe3f33878cf8341d7976a87de382f3d6707444",
+    "abi": "See artifacts/contracts/AgentPermissionRegistry.sol/AgentPermissionRegistry.json"
+  },
+  "sepolia": {
+    "network": "sepolia",
+    "contractAddress": "",
+    "deployerAddress": "",
+    "deployedAt": "",
+    "txHash": "",
+    "_note": "Sepolia deployment identifiers are withheld while the paper is under double-anonymous review, because the deploying account is linkable to the authors. Set SEPOLIA_CONTRACT to re-run scripts/measure_sepolia.js. The measured data in experiments/results_sepolia*/ is complete and is what the paper reports; the identifiers are restored on publication.",
+    "abi": "See artifacts/contracts/AgentPermissionRegistry.sol/AgentPermissionRegistry.json"
+  }
+}

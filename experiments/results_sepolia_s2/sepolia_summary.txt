@@ -1,0 +1,18 @@
+SEPOLIA TESTNET MEASUREMENT — AgentPermissionRegistry
+Contract: [withheld for anonymous review]
+Date: [withheld for anonymous review]
+RPC: https://ethereum-sepolia-rpc.publicnode.com
+Session: s2
+
+READ LATENCY — checkPermission view call (n=50)
+  mean=407.9ms  median=330ms  p95=834ms  min=155ms  max=2630ms  std=387.6ms
+
+WRITE LATENCY — logDecision, submit → 1 confirmation (n=50)
+  mean=12.25s  median=11.55s  p95=19.44s  min=5.57s  max=24.70s  std=3.25s
+
+GAS — logDecision (n=50)
+  mean=33088  median=35440  min=30306  max=35452  std=2556
+  total fee for 50 tx: 0.001814 ETH
+
+Blocks spanned: 333484 to 333536 (relative to the first block of session 1; absolute numbers withheld for anonymous review)
+Transaction hashes and the contract address are withheld for anonymous review.

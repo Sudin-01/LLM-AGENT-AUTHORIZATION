@@ -1,0 +1,987 @@
+[blockguard.classifiers] Initializing classifier: rule
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.25
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.25
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.25
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.25
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.25
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.25
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.20
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.25
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.38
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=read_file confidence=0.17
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.20
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.20
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.20
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.20
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.20
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.20
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.20
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.25
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.25
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.25
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=search_web confidence=0.12
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=execute_command confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=transfer_money confidence=0.10
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.12
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] classifier=rule action=delete_database confidence=0.0 (no pattern match — fail-closed default)
+[blockguard.classifiers] Initializing classifier: embedding
+[sentence_transformers.SentenceTransformer] Use pytorch device_name: mps
+[sentence_transformers.SentenceTransformer] Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+/opt/miniconda3/lib/python3.12/site-packages/transformers/tokenization_utils_base.py:1601: FutureWarning: `clean_up_tokenization_spaces` was not set. It will be set to `True` by default. This behavior will be depracted in transformers v4.45, and will be then set to `False` by default. For more details check this issue: https://github.com/huggingface/transformers/issues/31884
+  warnings.warn(
+✓ Generated 300 labeled prompts (same dataset as run_experiment.py — fixed seed)
+
+──────────────────────────────────────────────────────────────────────────────
+  EVALUATING CLASSIFIER: rule
+──────────────────────────────────────────────────────────────────────────────
+  … 50/300
+  … 100/300
+  … 150/300
+  … 200/300
+  … 250/300
+  … 300/300
+  Done in 0.0s (142 fallback(s) to rule-based)
+  ✓ Saved confusion_matrix_rule.png
+
+──────────────────────────────────────────────────────────────────────────────
+  EVALUATING CLASSIFIER: embedding
+──────────────────────────────────────────────────────────────────────────────
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:01<00:00,  1.87s/it]Batches: 100%|██████████| 1/1 [00:01<00:00,  1.88s/it]
+[blockguard.classifiers] Embedding classifier ready (model=all-MiniLM-L6-v2, 30 exemplars, loaded in 7.0s)
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  4.49it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  4.48it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.445
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.71it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.70it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.409
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  7.99it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  7.97it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.295
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.66it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.64it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.222
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  7.38it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  7.36it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.415
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.71it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.69it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.180
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 50.23it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.293
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 53.89it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.331
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.05it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.283
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  9.01it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.99it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.257
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 52.57it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.367
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.48it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.326
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 52.28it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.259
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.14it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.373
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 53.66it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.290
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.93it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.497
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  9.16it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  9.14it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.357
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 53.89it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.373
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 52.69it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.310
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.71it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.70it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.280
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.51it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.533
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.66it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.64it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.298
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 52.29it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.317
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.70it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.355
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  7.92it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  7.90it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.115
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.57it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.419
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.90it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.420
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.34it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.212
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.93it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.435
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.89it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.457
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.32it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.278
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.54it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.326
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.38it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.713
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.70it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.240
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.66it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.64it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.207
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 51.59it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.125
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  7.81it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  7.80it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.172
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 53.51it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.202
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.90it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.359
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.58it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.237
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.78it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.76it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.289
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.07it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.271
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.95it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.358
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.85it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.332
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.76it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.242
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 52.37it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.212
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 51.69it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.273
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.88it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.326
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.88it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.179
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 47.01it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.238
+  … 50/300
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 38.02it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.434
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 42.46it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.216
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 46.87it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.369
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 45.72it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.314
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 50.41it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.423
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.58it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.318
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.52it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.345
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 52.05it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.307
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.18it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.295
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.01it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.269
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.52it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.388
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.35it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.218
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.87it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.391
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.40it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.502
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.83it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.520
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.70it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.275
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.90it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.477
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.68it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.482
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.26it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.384
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.52it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.412
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.52it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.474
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.28it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.412
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.14it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.519
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.90it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.444
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 53.68it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.361
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.24it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.324
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.43it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.500
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.62it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.278
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.09it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.464
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.40it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.708
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.08it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.405
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.55it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.499
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.06it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.251
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.03it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.675
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.93it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.455
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.30it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.326
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.88it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.442
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.09it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.353
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.87it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.315
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.67it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.533
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.69it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.502
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.32it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.430
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.45it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.509
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.08it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.429
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.80it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.437
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.94it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.580
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.35it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.34it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.403
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.10it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.370
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.23it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.592
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.55it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.353
+  … 100/300
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.03it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.487
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.70it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.225
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.72it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.454
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.06it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.293
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.82it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.439
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.62it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.386
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.67it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.359
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.67it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.386
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.27it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.265
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.24it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.512
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.50it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.593
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 50.40it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.435
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.55it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.389
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.67it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.522
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.41it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.237
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.68it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.336
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.94it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.333
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.90it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.496
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 51.75it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.551
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 53.37it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.360
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 49.37it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.625
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.79it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.774
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.72it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.361
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.13it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.495
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.14it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.249
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.88it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.459
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.80it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.400
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.49it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.382
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.66it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.268
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 53.92it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.463
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.56it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.474
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.52it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.481
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.53it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.240
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.79it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.581
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.03it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.581
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.37it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.327
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.36it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.438
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.06it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.315
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.25it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.344
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.25it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.538
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.66it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.815
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 53.29it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.455
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 52.54it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.862
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.43it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.457
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.13it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.606
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.81it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.495
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.66it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.561
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.05it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.396
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.87it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.252
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.11it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.490
+  … 150/300
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.13it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.547
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.53it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.538
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.96it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.337
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.88it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.478
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.89it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.489
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.39it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.462
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.64it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.492
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.32it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.394
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.49it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.323
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.63it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.377
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.02it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.263
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.57it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.517
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.61it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.501
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.88it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.280
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.90it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.356
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.39it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.374
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.32it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.237
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.50it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.422
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.78it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.494
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.44it/s]
+[blockguard.classifiers] classifier=embedding action=search_web confidence=0.175
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.00it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.383
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.38it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.459
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.60it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.143
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.07it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.423
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.93it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.299
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.24it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.294
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.58it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.328
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.96it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.363
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.85it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.578
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.32it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.472
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.43it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.271
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.48it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.282
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.78it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.450
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.20it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.357
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.91it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.484
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.57it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.187
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.73it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.266
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.14it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.320
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.49it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.520
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 52.68it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.486
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.67it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.313
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.04it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.552
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.95it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.304
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 52.95it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.365
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.27it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.370
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.30it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.172
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.92it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.435
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.16it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.349
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.79it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.178
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.73it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.197
+  … 200/300
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.92it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.305
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.84it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.461
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.84it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.382
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.67it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.206
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.65it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.311
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.82it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.291
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.35it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.409
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.04it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.309
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.06it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.235
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.38it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.246
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.09it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.503
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.92it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.492
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.16it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.243
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.00it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.766
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.31it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.366
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.05it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.352
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.21it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.286
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.96it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.287
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.37it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.308
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.14it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.580
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.49it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.333
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 52.40it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.357
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.51it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.376
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.22it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.594
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.73it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.361
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.90it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.363
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.93it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.294
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.42it/s]
+[blockguard.classifiers] classifier=embedding action=read_file confidence=0.204
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.28it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.226
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.82it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.215
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.63it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.235
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.60it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.681
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.24it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.416
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.68it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.251
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.41it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.381
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.30it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.247
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.20it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.444
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.12it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.190
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.82it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.171
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.64it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.293
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.97it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.589
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.93it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.365
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.87it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.512
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.32it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.508
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 52.69it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.472
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 53.17it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.664
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.76it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.508
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.47it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.226
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.78it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.574
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.75it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.511
+  … 250/300
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.05it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.822
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.58it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.469
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 49.33it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.554
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 51.80it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.615
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.62it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.492
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.14it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.213
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.33it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.474
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.12it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.512
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.30it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.309
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.28it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.438
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.72it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.370
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  6.68it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  6.67it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.507
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.71it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.421
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 53.00it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.560
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.11it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.449
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.01it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.686
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.42it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.462
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.55it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.596
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 53.95it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.275
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.60it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.568
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.38it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.641
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.57it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.448
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.33it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.502
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.70it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.532
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.38it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.474
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.86it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.214
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.14it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.633
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 58.19it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.389
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.30it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.337
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.53it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.590
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.90it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.411
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.10it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.588
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.34it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.356
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.67it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.560
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.44it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.393
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 53.93it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.339
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.03it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.644
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.93it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.381
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.20it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.444
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.54it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.729
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.89it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.502
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.55it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.526
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.75it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.447
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 57.05it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.223
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 49.76it/s]
+[blockguard.classifiers] classifier=embedding action=execute_command confidence=0.429
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 47.59it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.391
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 47.28it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.622
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 52.64it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.406
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 53.25it/s]
+[blockguard.classifiers] classifier=embedding action=delete_database confidence=0.553
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 52.61it/s]
+[blockguard.classifiers] classifier=embedding action=transfer_money confidence=0.390
+  … 300/300
+  Done in 7.8s (0 fallback(s) to rule-based)
+  ✓ Saved confusion_matrix_embedding.png
+
+✓ Wrote predictions to classifier_comparison.csv
+✓ Wrote metrics report to classifier_metrics_report.txt
+
+
+==============================================================================
+  CLASSIFIER COMPARISON — METRICS REPORT
+  Generated: 2026-08-21T10:21:15.091382+00:00Z
+  sklearn available: True
+==============================================================================
+
+── rule ────────────────────────────────────────────────────────
+  Accuracy:        56.67%
+  Macro Precision: 79.59%
+  Macro Recall:    56.67%
+  Macro F1:        58.76%
+
+  Per-class breakdown:
+    search_web         precision= 89.19%  recall= 55.00%  f1= 68.04%  (n=60)
+    read_file          precision=100.00%  recall= 45.00%  f1= 62.07%  (n=60)
+    transfer_money     precision= 79.41%  recall= 45.00%  f1= 57.45%  (n=60)
+    execute_command    precision= 96.00%  recall= 40.00%  f1= 56.47%  (n=60)
+    delete_database    precision= 33.33%  recall= 98.33%  f1= 49.79%  (n=60)
+
+  Confusion matrix (rows=actual, cols=predicted):
+                        search_w  read_fil  transfer  execute_  delete_d
+    search_web                33         0         3         0        24
+    read_file                  3        27         3         1        26
+    transfer_money             0         0        27         0        33
+    execute_command            1         0         0        24        35
+    delete_database            0         0         1         0        59
+
+── embedding ───────────────────────────────────────────────────
+  Accuracy:        75.67%
+  Macro Precision: 78.19%
+  Macro Recall:    75.67%
+  Macro F1:        74.99%
+
+  Per-class breakdown:
+    search_web         precision= 96.67%  recall= 48.33%  f1= 64.44%  (n=60)
+    read_file          precision= 75.86%  recall= 73.33%  f1= 74.58%  (n=60)
+    transfer_money     precision= 80.28%  recall= 95.00%  f1= 87.02%  (n=60)
+    execute_command    precision= 63.51%  recall= 78.33%  f1= 70.15%  (n=60)
+    delete_database    precision= 74.63%  recall= 83.33%  f1= 78.74%  (n=60)
+
+  Confusion matrix (rows=actual, cols=predicted):
+                        search_w  read_fil  transfer  execute_  delete_d
+    search_web                29         5         6        10        10
+    read_file                  0        44         4         8         4
+    transfer_money             1         1        57         0         1
+    execute_command            0         8         3        47         2
+    delete_database            0         0         1         9        50
+
+==============================================================================

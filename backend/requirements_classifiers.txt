@@ -1,0 +1,15 @@
+# Additional dependencies for the classifier abstraction layer
+#   pip install -r requirements_classifiers.txt
+#
+# Pinned rather than floored: an unpinned `sentence-transformers` resolves a
+# `transformers` release requiring torch>=2.5, which fails at import against
+# the torch 2.2.x commonly already present. These versions are mutually
+# compatible and are the set used for every result reported in the paper.
+
+google-genai>=0.1.0          # Gemini classifier (optional; falls back to rule-based)
+torch==2.2.2
+transformers==4.44.2
+sentence-transformers==3.0.1
+tokenizers==0.19.1
+scikit-learn==1.5.1
+matplotlib==3.9.2

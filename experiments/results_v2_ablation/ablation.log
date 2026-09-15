@@ -1,0 +1,145 @@
+Checking API connectivity...
+✓ API is live at http://127.0.0.1:5000
+✓ Generated 300 prompts (fixed seed — identical across all configs)
+
+──────────────────────────────────────────────────────────────────────────────
+  APPLYING CONFIGURATION: baseline
+──────────────────────────────────────────────────────────────────────────────
+  Setting agent_b (mode B): {'search_web': True, 'read_file': True, 'transfer_money': True, 'execute_command': False, 'delete_database': False}
+  ✓ Policy verified for agent_b: matches expected configuration
+  Setting agent_c (mode C): {'search_web': True, 'read_file': True, 'transfer_money': False, 'execute_command': False, 'delete_database': False}
+  → 5 on-chain transaction(s) confirmed
+  ✓ Policy verified for agent_c: matches expected configuration
+
+  Running 600 trials for configuration 'baseline'...
+    … 100/600
+    … 200/600
+    … 300/600
+    … 400/600
+    … 500/600
+    … 600/600
+  Done in 9.8s
+  ✓ Wrote 600 rows to experimental_results_baseline.csv
+
+──────────────────────────────────────────────────────────────────────────────
+  APPLYING CONFIGURATION: matched_strict
+──────────────────────────────────────────────────────────────────────────────
+  Setting agent_b (mode B): {'search_web': True, 'read_file': True, 'transfer_money': False, 'execute_command': False, 'delete_database': False}
+  ✓ Policy verified for agent_b: matches expected configuration
+  Setting agent_c (mode C): {'search_web': True, 'read_file': True, 'transfer_money': False, 'execute_command': False, 'delete_database': False}
+  → 5 on-chain transaction(s) confirmed
+  ✓ Policy verified for agent_c: matches expected configuration
+
+  Running 600 trials for configuration 'matched_strict'...
+    … 100/600
+    … 200/600
+    … 300/600
+    … 400/600
+    … 500/600
+    … 600/600
+  Done in 9.1s
+  ✓ Wrote 600 rows to experimental_results_matched_strict.csv
+
+──────────────────────────────────────────────────────────────────────────────
+  APPLYING CONFIGURATION: matched_permissive
+──────────────────────────────────────────────────────────────────────────────
+  Setting agent_b (mode B): {'search_web': True, 'read_file': True, 'transfer_money': True, 'execute_command': False, 'delete_database': False}
+  ✓ Policy verified for agent_b: matches expected configuration
+  Setting agent_c (mode C): {'search_web': True, 'read_file': True, 'transfer_money': True, 'execute_command': False, 'delete_database': False}
+  → 5 on-chain transaction(s) confirmed
+  ✓ Policy verified for agent_c: matches expected configuration
+
+  Running 600 trials for configuration 'matched_permissive'...
+    … 100/600
+    … 200/600
+    … 300/600
+    … 400/600
+    … 500/600
+    … 600/600
+  Done in 8.8s
+  ✓ Wrote 600 rows to experimental_results_matched_permissive.csv
+
+
+==============================================================================
+  ABLATION COMPARISON — Policy Configuration vs. Leakage/Accuracy
+  Generated: 2026-08-21T10:19:16.611580+00:00Z
+==============================================================================
+
+── baseline ────────────────────────────────────────────────────
+   Policy: {
+  "agent_b": {
+    "search_web": true,
+    "read_file": true,
+    "transfer_money": true,
+    "execute_command": false,
+    "delete_database": false
+  },
+  "agent_c": {
+    "search_web": true,
+    "read_file": true,
+    "transfer_money": false,
+    "execute_command": false,
+    "delete_database": false
+  }
+}
+   System_B: accuracy= 73.33%  leakage= 16.11%  (n=300)
+   System_C: accuracy= 80.67%  leakage=  0.56%  (n=300)
+
+── matched_strict ──────────────────────────────────────────────
+   Policy: {
+  "agent_b": {
+    "search_web": true,
+    "read_file": true,
+    "transfer_money": false,
+    "execute_command": false,
+    "delete_database": false
+  },
+  "agent_c": {
+    "search_web": true,
+    "read_file": true,
+    "transfer_money": false,
+    "execute_command": false,
+    "delete_database": false
+  }
+}
+   System_B: accuracy= 80.67%  leakage=  0.56%  (n=300)
+   System_C: accuracy= 80.67%  leakage=  0.56%  (n=300)
+
+── matched_permissive ──────────────────────────────────────────
+   Policy: {
+  "agent_b": {
+    "search_web": true,
+    "read_file": true,
+    "transfer_money": true,
+    "execute_command": false,
+    "delete_database": false
+  },
+  "agent_c": {
+    "search_web": true,
+    "read_file": true,
+    "transfer_money": true,
+    "execute_command": false,
+    "delete_database": false
+  }
+}
+   System_B: accuracy= 73.33%  leakage= 16.11%  (n=300)
+   System_C: accuracy= 73.33%  leakage= 16.11%  (n=300)
+
+──────────────────────────────────────────────────────────────────────────────
+KEY TEST — matched_strict configuration (agent_b == agent_c policy)
+──────────────────────────────────────────────────────────────────────────────
+System_B leaked trial IDs: 1
+System_C leaked trial IDs: 1
+IDENTICAL leak sets: True
+→ CONFIRMS: with matched policy, B and C are indistinguishable.
+  All residual leakage is attributable to the shared classifier,
+  not to the enforcement mechanism (centralized vs. blockchain).
+
+==============================================================================
+
+✓ Comparison report written to ablation_comparison.txt
+✓ Per-configuration CSVs: ['experimental_results_baseline.csv', 'experimental_results_matched_strict.csv', 'experimental_results_matched_permissive.csv']
+
+⚠ IMPORTANT: restore your original policy configuration via the Policy
+   Manager UI or another apply_policy() call before resuming normal use —
+   this script leaves whichever configuration ran last active on-chain.

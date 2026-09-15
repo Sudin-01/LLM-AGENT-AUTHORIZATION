@@ -1,0 +1,16 @@
+system,concurrency,throughput_rps,p95_latency_ms,errors,elapsed_s
+System_A,1,269.87,0,1,0.004
+System_A,5,484.57,0,5,0.01
+System_A,10,1128.75,0,10,0.009
+System_A,25,1381.34,0,25,0.018
+System_A,50,1512.54,0,50,0.033
+System_B,1,829.27,0,1,0.001
+System_B,5,1246.86,0,5,0.004
+System_B,10,1431.02,0,10,0.007
+System_B,25,1478.7,0,25,0.017
+System_B,50,1481.88,0,50,0.034
+System_C,1,807.21,0,1,0.001
+System_C,5,1338.55,0,5,0.004
+System_C,10,1435.68,0,10,0.007
+System_C,25,1461.03,0,25,0.017
+System_C,50,1515.43,0,50,0.033

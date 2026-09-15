@@ -1,0 +1,43 @@
+==============================================================================
+  BLOCKGUARD TAMPER-RESISTANCE EVALUATION
+  Generated: 2026-08-24T17:33:35.303431+00:00
+  Repetitions: 30   Wall-clock: 126.8s
+  Workload per repetition: 20 benign + 20 exploit + 20 benign = 60 decisions
+  System B is steelmanned: it keeps its own policy-change log and
+  decision log in SQLite. Adversary has identical process access to both.
+==============================================================================
+
+------------------------------------------------------------------------------
+A1  Insider privilege escalation (adversary holds owner key)
+------------------------------------------------------------------------------
+  System      attack ok   by state  by history  attributable   audit ms
+  System_B        30/30      30/30        0/30          0/30      2.067
+  System_C        30/30      30/30       30/30         30/30     68.327
+
+------------------------------------------------------------------------------
+A2  Unauthorized escalation (process access, no owner key)
+------------------------------------------------------------------------------
+  System      attack ok   by state  by history  attributable   audit ms
+  System_B        30/30      30/30        0/30          0/30      0.000
+  System_C         0/30       0/30        0/30          0/30      0.000
+
+------------------------------------------------------------------------------
+A3  Retroactive revert (escalate -> exploit -> restore policy)
+------------------------------------------------------------------------------
+  System      attack ok   by state  by history  attributable   audit ms
+  System_B        30/30       0/30        0/30          0/30      3.042
+  System_C        30/30       0/30       30/30         30/30     73.409
+
+------------------------------------------------------------------------------
+A4  Audit-log tampering (delete incriminating records)
+------------------------------------------------------------------------------
+  System      attack ok   by state  by history  attributable   audit ms
+  System_B        30/30       0/30        0/30          0/30      2.660
+  System_C        30/30       0/30       30/30         30/30    638.990
+
+------------------------------------------------------------------------------
+FORENSIC RECONSTRUCTION AFTER AUDIT-LOG TAMPERING
+------------------------------------------------------------------------------
+  System_B:  overall records recovered 66.67%   exploit-window records recovered 0.0/20   tampering detected 0/30
+  System_C:  overall records recovered 100.00%   exploit-window records recovered 20.0/20   tampering detected 30/30
+==============================================================================

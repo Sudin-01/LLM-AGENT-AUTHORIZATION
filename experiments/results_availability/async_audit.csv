@@ -1,0 +1,3 @@
+mode,throughput_rps,median_latency_ms,p95_latency_ms,max_audit_backlog,median_audit_lag_ms
+sync,46.7,20.81,23.97,0,0.0
+async,77.6,12.99,16.15,70,695.9

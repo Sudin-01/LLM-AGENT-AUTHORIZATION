@@ -1,0 +1,12 @@
+==========================================================================
+  PROMPT-SET DIVERSITY AUDIT
+==========================================================================
+  v1 distinct sentence patterns : 84 / 300
+  v2 distinct sentence patterns : 300 / 300
+
+  v1 near-duplicate pairs (cos >= 0.95): 48
+  v2 near-duplicate pairs (cos >= 0.95): 0
+
+  v1 mean within-tool cosine : 0.366
+  v2 mean within-tool cosine : 0.208
+==========================================================================

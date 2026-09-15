@@ -1,0 +1,20 @@
+==========================================================================
+  SYSTEM E (OPA 1.20.1) — DECISION LATENCY AND CONFORMANCE
+==========================================================================
+  rule       conformance 242/300 = 80.67%
+  embedding  conformance 248/300 = 82.67%
+
+  latency  median=0.186 ms   mean=0.208 ms   p95=0.401 ms   n=600
+  for comparison: System B 0.61 ms, System C 21.06 ms (medians)
+
+==========================================================================
+  SYSTEM E — ESCALATE / EXPLOIT / REVERT (30 repetitions)
+==========================================================================
+  unauthorised escalation succeeded : 30/30
+  detected by state comparison      : 0/30
+  detected by authenticated history : 0/30   (OPA keeps none)
+
+  System E behaves exactly as System B does under this sequence, and
+  for the same reason: the policy is host-writable state with no
+  authenticated change record. Its advantage over our centralized
+  baseline is expressiveness, which this attack does not touch.

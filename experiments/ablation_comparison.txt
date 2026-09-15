@@ -1,0 +1,76 @@
+==============================================================================
+  ABLATION COMPARISON — Policy Configuration vs. Leakage/Accuracy
+  Generated: 2026-06-20T14:23:50.461691+00:00Z
+==============================================================================
+
+── baseline ────────────────────────────────────────────────────
+   Policy: {
+  "agent_b": {
+    "search_web": true,
+    "read_file": true,
+    "transfer_money": true,
+    "execute_command": false,
+    "delete_database": false
+  },
+  "agent_c": {
+    "search_web": true,
+    "read_file": true,
+    "transfer_money": false,
+    "execute_command": false,
+    "delete_database": false
+  }
+}
+   System_B: accuracy= 53.00%  leakage= 78.33%  (n=300)
+   System_C: accuracy= 73.00%  leakage= 45.00%  (n=300)
+
+── matched_strict ──────────────────────────────────────────────
+   Policy: {
+  "agent_b": {
+    "search_web": true,
+    "read_file": true,
+    "transfer_money": false,
+    "execute_command": false,
+    "delete_database": false
+  },
+  "agent_c": {
+    "search_web": true,
+    "read_file": true,
+    "transfer_money": false,
+    "execute_command": false,
+    "delete_database": false
+  }
+}
+   System_B: accuracy= 73.00%  leakage= 45.00%  (n=300)
+   System_C: accuracy= 73.00%  leakage= 45.00%  (n=300)
+
+── matched_permissive ──────────────────────────────────────────
+   Policy: {
+  "agent_b": {
+    "search_web": true,
+    "read_file": true,
+    "transfer_money": true,
+    "execute_command": false,
+    "delete_database": false
+  },
+  "agent_c": {
+    "search_web": true,
+    "read_file": true,
+    "transfer_money": true,
+    "execute_command": false,
+    "delete_database": false
+  }
+}
+   System_B: accuracy= 53.00%  leakage= 78.33%  (n=300)
+   System_C: accuracy= 53.00%  leakage= 78.33%  (n=300)
+
+──────────────────────────────────────────────────────────────────────────────
+KEY TEST — matched_strict configuration (agent_b == agent_c policy)
+──────────────────────────────────────────────────────────────────────────────
+System_B leaked trial IDs: 81
+System_C leaked trial IDs: 81
+IDENTICAL leak sets: True
+→ CONFIRMS: with matched policy, B and C are indistinguishable.
+  All residual leakage is attributable to the shared classifier,
+  not to the enforcement mechanism (centralized vs. blockchain).
+
+==============================================================================

@@ -1,0 +1,18 @@
+# BlockGuard Backend Requirements
+# Install: pip install -r requirements.txt
+
+# Web framework
+flask==3.0.3
+flask-cors==4.0.1
+
+# Blockchain
+web3==6.20.3
+
+# AI / LLM (optional — set OPENAI_API_KEY env var)
+openai==1.40.0
+langchain==0.2.14
+langchain-openai==0.1.22
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.32.3

@@ -1,0 +1,56 @@
+══════════════════════════════════════════════════════════════════════════════
+  BLOCKGUARD EXPERIMENTAL SUMMARY REPORT
+  Generated: 2026-09-03T12:05:38.312940+00:00Z
+══════════════════════════════════════════════════════════════════════════════
+
+Total wall-clock execution time: 11.3s
+Total trials in main sweep: 900
+
+──────────────────────────────────────────────────────────────────────────────
+SAFETY LEAKAGE RATE
+(% of DENY-intended prompts where Action_Executed flipped to TRUE)
+──────────────────────────────────────────────────────────────────────────────
+  System_A     180 leaked / 180 DENY-intended = 100.00% leakage rate
+  System_B      60 leaked / 180 DENY-intended =  33.33% leakage rate
+  System_C       0 leaked / 180 DENY-intended =   0.00% leakage rate
+
+──────────────────────────────────────────────────────────────────────────────
+ACCURACY (Permission_Decision matches Intended_Policy)
+──────────────────────────────────────────────────────────────────────────────
+  System_A     120/300 correct =  40.00% accuracy
+  System_B     238/300 correct =  79.33% accuracy
+  System_C     298/300 correct =  99.33% accuracy
+
+──────────────────────────────────────────────────────────────────────────────
+LATENCY (isolated enforcement time, System A = 0.0 by definition)
+──────────────────────────────────────────────────────────────────────────────
+  System_B     median=  0.470ms  mean=  0.499ms  p95=  0.670ms  min=  0.410ms  max=  1.340ms  n=300
+  System_C     median= 27.580ms  mean= 27.777ms  p95= 34.070ms  min= 17.560ms  max= 81.290ms  n=300
+
+──────────────────────────────────────────────────────────────────────────────
+EXECUTION ERRORS (Ganache/network failures, not policy denials)
+──────────────────────────────────────────────────────────────────────────────
+  System_A     0 errors
+  System_B     0 errors
+  System_C     0 errors
+
+──────────────────────────────────────────────────────────────────────────────
+DECISION CONSISTENCY (same prompt repeated 20×, % yielding identical decision)
+──────────────────────────────────────────────────────────────────────────────
+  System_A      100.0% consistent
+  System_B      100.0% consistent
+  System_C      100.0% consistent
+
+──────────────────────────────────────────────────────────────────────────────
+SCALABILITY (throughput at max concurrency tested)
+──────────────────────────────────────────────────────────────────────────────
+  System_A     at n= 50: 1512.54 req/s, p95=    0.0ms
+  System_B     at n= 50: 1481.88 req/s, p95=    0.0ms
+  System_C     at n= 50: 1515.43 req/s, p95=    0.0ms
+
+──────────────────────────────────────────────────────────────────────────────
+GAS USAGE — System C (logDecision transactions)
+──────────────────────────────────────────────────────────────────────────────
+  n=300  mean=33,427  median=35,440  std=2,513  min=30,294  max=35,452
+
+══════════════════════════════════════════════════════════════════════════════
